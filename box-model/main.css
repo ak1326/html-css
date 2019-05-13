@@ -1,0 +1,47 @@
+.wrapper {
+	margin-left: 200px;
+}
+.title{
+	margin: 25px 0px ;
+	
+}
+
+.box {
+	display: inline-block;                    
+    background-color: #bf3b16;;
+    height: 200px;
+    width: 300px;
+    margin: 25px 50px 25px 0px;
+}
+
+.border1 {
+    border: 10px solid black ;
+}
+
+.border2 {                           
+    border: double 10px ;
+}
+
+.border3 {                           
+    border: dashed 10px ;
+}
+
+.border4 {                           
+    border: dotted 10px ;
+}
+
+.outer {
+	display: inline-block;
+	border: 25px solid orange;
+}
+
+.inner {
+	border: 10px solid red;
+	padding: 20px 90px ;
+	background-color: lightgreen;
+	color: blue;
+} 
+
+.padding {
+	padding: 20px 70px;
+	}
